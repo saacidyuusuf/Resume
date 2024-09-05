@@ -25,6 +25,10 @@
     justify-content: space-between;
 }
 
+.info p{
+    cursor: pointer;
+}
+
 .nameAndInfo h1{
     text-align: center;
     font-size: 2.2rem;
